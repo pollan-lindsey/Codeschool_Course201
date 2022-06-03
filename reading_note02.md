@@ -8,9 +8,6 @@ HTML:
 
 1. **What are 3 examples of HTML lists? How are they formatted?**
 
-2. **What is a hyperlink in your own words?**
-
-3. **How do we use hyperlinks in HTML?**
 
 
 CSS:
