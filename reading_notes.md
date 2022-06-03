@@ -52,3 +52,4 @@ Welcome to your first reading notes file! Reading notes are important because th
 3. List 2 ways to make text **bold** in Markdown
 
 
+## Any thoughts / comments you would like to add?
