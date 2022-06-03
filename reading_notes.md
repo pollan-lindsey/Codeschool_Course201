@@ -41,9 +41,9 @@ Welcome to your first reading notes file! Reading notes are important because th
 
 2. **What are data types in Javascript? List 3 data types and thier uses**
 
-3. **What is a 'for' loop in your own words?**
+3. **What are 3 best practices in Javascript?**
 
-4. **What is a while loop? What is the difference between a while loop and a for loop?**
+4. **How do we add Javascript in our HTML document?**
 
 ## Markdown 
 
