@@ -2,9 +2,23 @@
 
 
 /* I need to RESET the margin and padding of the html page. What selector and propeties do I need? */
-
+html{
+  margin:0;
+  padding:0;
+}
 
 /* Our elements are looking a bit bland. Let's add some color  and change the font styles!*/
+body{background-color:grey;}
+  
+header{
+background-color:green;
+}
+  
+header p{
+display:inline;
+}  
+  
+ {color:pink; text-align: center}
 
 /* Let's add some space between our elements */
 
